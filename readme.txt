@@ -1,5 +1,9 @@
 Matlab code of the Grandi-Pasqualini-Bers human ventricular model.
 
+This model was developed within the framework of the Shannon-Bers rabbit ventricular model
+(also available for download on this website) and based on experimental data obtained in
+human ventricular myocytes.
+
 Reference:
 Grandi E, Pasqualini FS, Bers DM.
 A novel computational model of the human ventricular action potential and Ca transient.
